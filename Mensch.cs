@@ -28,7 +28,7 @@ namespace mySpace {
 
     public void showAttr() {
 
-      if (surename != null) {
+      if (surname != null) {
         Console.Write("Ich heisse " + name + " " + surname + " und bin " + age + " Jahre alt. Meine Augenfarbe ist " + eyecolor + ".\n");  
       } else {
         Console.Write("Ich heisse " + name + " " + surname + " und bin " + age + " Jahre alt. Meine Augenfarbe ist " + eyecolor + ".\n");
